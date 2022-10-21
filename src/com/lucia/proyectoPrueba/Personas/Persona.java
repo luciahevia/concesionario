@@ -8,7 +8,7 @@ public class Persona {
 	private Date fechanacimiento;
 	private String lugarnacimiento;
 	/**/
-/*ola
+/*ola2
  * */
 	public Persona(String nombre, Date fechanacimiento, String lugarnacimiento) {
 		super();
